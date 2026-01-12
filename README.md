@@ -1,1 +1,1 @@
-## organizing now, finish soon##
+The code is currently being organized and will be finalized soon.
